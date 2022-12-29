@@ -1,0 +1,46 @@
+#+TITLE: Stuart Kauffman - Complexity & Emergence
+#+AUTHOR: John Cumming
+#+EMAIL: john.cumming@baesystems.com
+#+LANGUAGE: en
+
+* The Emergence and Evolution of Life
+
+[x] Constraint closure - A set of both constraints on the release of
+energy in non-equilibrium processes and those processes, such that the
+system constructs its own constraints... Cells do this automobiles do
+not.
+
+[26] In fact constraints and work can do work to build more
+constraints! The next time it rains, the hot hole in the dirt might
+become a mud puddle. Or the water from the pail might spill on the
+ground, flow down the hill, and cut a small dirt groove from the top
+of the well to my bean field. Thereaftre, I could use that groove
+rather than the tube to funnel water to the field. The groove is a new
+boundary condition.
+
+[40] Erdos and Renyi asked what happens to a random graph as the ratio
+of edges to vertices increases: that is more and more lines connect
+the dots. For E/V less than 0.5, the graph has a large number of
+disconnected "components" But when E/V crosses the threshold,
+connected structures emerge. E/V = 0.5, then, is a phase transition
+where suddenly small connected clusters merge into what is called the
+giant component of the graph.
+
+[53] Cells do cycles of work to construct approximate second copies of
+themselves as physical objects when they reproduce... These are
+examples of propogating work and the propagating organisation of the
+living world. The evolving biosphere /is/ this co-constructing
+propagation, subject to heritable variation and natural
+selection... It surges upward in compelxity and diversity into the
+indefinite, noergodic universe above the level of atoms. Hearts come
+to exist.
+
+[84] Work done to reproduce and further construct order is faster than
+the second law of thermodynamics dissipates that order.
+
+[91] Consider a bacterium swimming up a glucose gradient. The sugar
+matters to the bacterium. Mattering is now part of the
+universe. Agency introduces meaning to the world! Agency is
+fundamental to life.
+
+* At home in the universe
