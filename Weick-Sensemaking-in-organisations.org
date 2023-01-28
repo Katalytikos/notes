@@ -3,7 +3,6 @@
 #+EMAIL: john.cumming@baesystems.com
 #+LANGUAGE: en
 
-
 [p1] Sensemaking is tested to the extreme when people encounter an
 event whose occurence is so implausible that they hesitate to report
 it for fear they will not be believed.
