@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       DBF569C3-7BB8-4829-A7F4-DCC34876BA52
+:END:
+#+title: cynefin
+
+This is a file about use of cynefin a means of mapping [[id:DC779BDF-494A-41FB-856A-9BF14E0A82A2][complexity]] in systems

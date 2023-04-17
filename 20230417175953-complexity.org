@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DC779BDF-494A-41FB-856A-9BF14E0A82A2
+:END:
+#+title: complexity
+
+This is the first bit of a note about complexity
+
+And it refers to [[id:DBF569C3-7BB8-4829-A7F4-DCC34876BA52][cynefin]] and maybe something about [[id:7FA42261-FE06-4612-8E22-61A25DD6A102][estuarine mapping]]
