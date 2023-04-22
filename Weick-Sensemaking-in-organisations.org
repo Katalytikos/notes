@@ -1,0 +1,202 @@
+#+TITLE: Karl Weick - Sensemaking in organisations
+#+AUTHOR: John Cumming
+#+EMAIL: john.cumming@baesystems.com
+#+LANGUAGE: en
+
+[p1] Sensemaking is tested to the extreme when people encounter an
+event whose occurence is so implausible that they hesitate to report
+it for fear they will not be believed.
+
+[p2] Because of [Westrum's] fallacy of centrality [experts - because I
+don't know about this event, it must not be going on] the better the
+information system [technology], the less sensitive it is to novel
+events. This is encouraged by dense, heavily networked organisations.
+
+[p8] Sensemaking is about authoring as well as interpretation,
+creation as well as discovery.
+
+[p9] Propblem setting is a neccessary condition for technical problem
+solving, it is not itself a technical problem. When we set the
+problem, we select what we will treat as "things" of the situation, we
+set boundaries of our attention to it ans we impose coherence which
+allows us to say what's right and wrong.
+
+[p10] Juries
+
+[p13] Sensemaking differs from interpretation - The key distinction is
+that sensemaking is about the ways people generate what they
+interpret.
+
+[p14] Morgan, Frost & Pondy - "Individuals are not seen as living in,
+and acting out their lives in relation /to/ a wider reality, so much
+as creating and sustaining images of a wider reality, in part to
+rationalise what they are doing. The realize their reaility by
+'reading into' their situation patterns of significant meaning."
+
+[p17] Seven Proporties
+- Grounded in identity construction
+- Retrospective
+- Enactive of sensible environments
+- Social
+- Ongoing
+- Focused on and by extracted cues
+- Driven by plausibility rather than accuracy
+
+[p20] P1 Maintenance of identity is a core preoccupation in
+sensemaking.
+
+[p24] P1 What the situation means is defined by who I become while
+dealing with it or what and who I represent. *knowledge as ...* book
+
+[p28] P2 Hindsight both tightens causal couplings and reconstructs as
+coupled events a history that leads directly to the outcome... It is
+also true that the past has been reconstructed knowing the outcome,
+which means things never happened exactly they are remembered to have
+happened.
+
+[p31] P3 People are very much a part of their own environments.
+
+[p32] P3 "The activity of the individual is only in a certain sense
+caused by the stimulus of the situation because that activity is
+itself helping to produce the situation which causes the activity of
+the individual."
+
+[p37] P3 Cartesian anxiety - "best put as a dilemma: either we have a
+fixed and stable foundation for knowledge... or we cannot escape some
+kind of darkness, chaos, and confusion. Eitehr there is an absolute
+ground or foundation or everything falls apart"
+
+[p43] P5 Sensemaking never starts
+
+[p44] P5 language is action: Whenever people say something, they
+create rather than describe a situation, which means it is impossible
+to stay detached from whatever emerges unless you say nothing.
+
+[p45] P5 Mood Congruence - people remember events that have the same
+emotional tone as what they currently feel.
+
+[p53] P6 "People with expertise in newer tasks tend to appear at the
+bottoms of hierarchies and to interpret events in terms of these newer
+tasks and they welcome changes that will offer them promotion
+opportunities and bring their expertise to the fore. Conversely,
+people at the tops of organisational hierarchies tend to have
+expertsie related to older and more stable tasks, and they favour
+strategies and personnel assignments that will keep these tasks
+central."
+
+[p55] P6 Managers keep forgetting that it is what they do, not what
+they plan, that explains their success. They keep giving credit to the
+wrong thing - namely, the plan - and having made this error, they
+spend more time planning and less time acting. They are astonished
+when more planning improves nothing. (Starbuck, 1993)
+
+[p56] P7 The more diverse the work history of a top management team,
+the less accurate is the team in noticing munificence. "Misperceptions
+may be beneficial if they enable managers to overcome inertial
+tendencies."
+
+[p95] Ambiguity understood as confusion created by multiple meanings
+calls for social construction and invention. Ambiguity understood as
+ignorance created by insufficient information calls for more careful
+scanning and discovery.
+- State uncertainty: How components in environment are changing.
+- Effect uncertainty: Impact of environment changes on org.
+- Response uncertainty: What responses are open to us.
+
+[p99] To reduce multiple meanings, people need access to more cues and
+more varied cues, and this is what happens when rich personal media
+such as meetings and direct contact take precedence over less rich
+impersonal media such as formal information systems and special
+reports.
+
+[p100] People mistakenly try to reduce their confusion with formal
+information processing that is not rich enough or their ignorance with
+a group meeting that is too rich. Either mismatch can prolong or
+intensify what started out simply as something out of the ordinary.
+
+[p107] There is always slippage between words and what they refer to.
+
+[p108] Content that is rich in dynamics, process imagery, verbs,
+possibilities and unfolding narratives should represent flows more
+plausibly and accuractely than does content that is domininant by
+statics, structures, nouns, the impractical and lists.
+
+[p108] *To change a group, one must change what it says* and what its
+words mean.
+
+[p120] Ambiguity allows people to maintain their perception that there
+is agreement, when in fact, there is not.
+
+[p121] People in organisations build knowledge as they respond to the
+situations they encounter.
+
+[p128] An interesting story ... is a threat to one's model of reality
+or frame, which means that interesting stories are cues that evoke a
+mixture of fear and curiosity.
+
+[p134] The sensemaking starts with actions rather than beliefs - What
+people are missing is that what they see is usually the outcome of
+their own prior actions. What they see is something of their own
+making.
+
+[p135] "How can I know what I think until I see what I say"
+
+[p141] People exposed to strong, consistent minority positions do not
+spend more time thinking about the explicit message of the
+minority. Instead they engage in more divergent thinking, thinking
+that goes beyond the minority's message but remains relevant to the
+issues raised by the minority.
+
+[p142] Majority influnece, by contrast, is convergent from the
+beginning.
+
+[p145] Let input violate [interupt] expectancy, and the system is put
+on alert.
+
+[p147] The self-fulfilling prophecy is, in the beginning, a false
+definition of the situation evoking a new behaviour which makes the
+original false conception come true... The prophet will cite the
+actual course of events as proof that he was right from the
+beginning. (Merton 1948)
+
+[p153] Time pressure encourarages people to seek confirmation of
+expectancies, to cling to their initial hypotheses, and to prefert a
+narrative mode of thought to one that is paradigmatic and more data
+driven.
+
+[p170] The goal of organisations, viewed as sensemaking systems, is to
+create and identify events that recur to stabilize their environments
+and make them more predictable [?]
+
+[p180] Sharing is one of those troublesome achievement verbs that
+seems to describe a process but in fact describe an outcome, which
+means nothing has been explained.
+
+[p182] Talk the walk - walking is the means to find things worth
+talking about.
+
+[p183] People act in order to think.
+
+[p183] Rich vocabularies matter in a world of action where images of
+actions rather than the actions themselves are passed from person to
+person.
+
+[p185] The decions actually has already been set in motion before
+people declare that it has been made.
+
+[p185] Meetings make sense - people need to meet more often when we
+face problems of ambiguity and equivocality rather than problems of
+uncertainty. meetings are sensmakers.
+
+[p188] Sensemaking itself is ongoing and the sense it makes,
+transient. Verbs force us to face that. Nouns do not. Because verbs
+are closer to the dynamics of a process, to change a verb is to take
+the first step to change a process.
+
+[p197] A dry word-hoard is your best resource to make sense of
+sensemaking.
+
+
+
+
+

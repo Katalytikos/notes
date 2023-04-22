@@ -1,0 +1,101 @@
+#+TITLE: Stuart Kauffman - Complexity & Emergence
+#+AUTHOR: John Cumming
+#+EMAIL: john.cumming@baesystems.com
+#+LANGUAGE: en
+
+* The Emergence and Evolution of Life
+
+[x] Constraint closure - A set of both constraints on the release of
+energy in non-equilibrium processes and those processes, such that the
+system constructs its own constraints... Cells do this automobiles do
+not.
+
+[26] In fact constraints and work can do work to build more
+constraints! The next time it rains, the hot hole in the dirt might
+become a mud puddle. Or the water from the pail might spill on the
+ground, flow down the hill, and cut a small dirt groove from the top
+of the well to my bean field. Thereaftre, I could use that groove
+rather than the tube to funnel water to the field. The groove is a new
+boundary condition.
+
+[40] Erdos and Renyi asked what happens to a random graph as the ratio
+of edges to vertices increases: that is more and more lines connect
+the dots. For E/V less than 0.5, the graph has a large number of
+disconnected "components" But when E/V crosses the threshold,
+connected structures emerge. E/V = 0.5, then, is a phase transition
+where suddenly small connected clusters merge into what is called the
+giant component of the graph.
+
+[53] Cells do cycles of work to construct approximate second copies of
+themselves as physical objects when they reproduce... These are
+examples of propogating work and the propagating organisation of the
+living world. The evolving biosphere /is/ this co-constructing
+propagation, subject to heritable variation and natural
+selection... It surges upward in compelxity and diversity into the
+indefinite, noergodic universe above the level of atoms. Hearts come
+to exist.
+
+[84] Work done to reproduce and further construct order is faster than
+the second law of thermodynamics dissipates that order.
+
+[91] Consider a bacterium swimming up a glucose gradient. The sugar
+matters to the bacterium. Mattering is now part of the
+universe. Agency introduces meaning to the world! Agency is
+fundamental to life.
+
+* At home in the universe
+
+[p22] Among the most beautiful [algorithm] are those that, in most
+cases by far, there exists no shorter means to predict what an
+algorithm will do than to simply execute it, observing the succession
+of actions and states as they unfold. The algorithm itself is its own
+shortest description. It is, in the jargon of the field,
+incompressible.
+
+[p30] We are all at home in the universe, poised to sanctify by our
+best, brief, only stay.
+
+[p49] At its heart, a living organism is a system of chemical that has
+the capacity to catalyze its own reproduction.
+
+[p52] We should be thankful that our cells are not at chemical
+equilibrium; for a living system, equilibrium corresponds to
+death. Living systems are, instead, open thermodynamic systems
+persistently displaced from checmical equilibrium.
+
+[p211] It seems that given a "reservoir" of species that can migrate
+into a plot or patch, the community that forms is deeply dependent on
+the sequence in which species are introduced. Ecologist Stuart Pimm
+has coined the term "Humpty Dumpty effect": you cannot always put an
+ecosystem back together with only the final species in the community.
+
+[p214] While a species navigates a fitness landscape [and]
+... communities climb higher and higer toward some fitness peak, the
+ascension becomes harder and harder. As the climb proceeds, there are
+fewer directions uphill and hence it is harder to add new
+species. Saturation is attained.
+
+[p217] I suspect that biological coevolution and technological
+coevolution, the increasing diversity of the biosphere and of our
+"technosphere" may be governed by the same or similar fundamental
+laws.
+
+[p219] Prisoner's dilemma - single game the rational strategy is
+defect-defect, but in a repeated game, entirely different strategies
+emerge - cooperation. tit for tat becames a strategy.
+
+[p236] Power law distribution in complex evolutionary change? Poised
+systems need no massive mover to move massively.
+
+[p264] Patch possibilities - It is fascinating that as the conflicting
+constraints become worse, patches become ever more helpful. Moreover,
+it may suggest new tools in the managament of complex organisations
+and in the evolution of complex institutions worldwide.
+
+[p267] (Patches and RBC) Reciever based communication is roughly this:
+all the agents in a system that is trying to coordinate behaviour let
+other agents know what is happening to them. The receivers of this
+information use it to decide what they are going to do.
+
+[p280] The current [economic] efforts ignore the fact the
+technological evolution is actually coevolution.
