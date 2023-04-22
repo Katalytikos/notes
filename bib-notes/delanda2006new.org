@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       541A4940-CB3E-40CE-A8BA-23B7ABAD7AEB
+:END:
+#+TITLE: Notes on: DeLanda, M. (2006): A new philosophy of society: assemblage theory and social complexity
+
+[p1] New approach to social ontology that does not undermine social
+realism. Opposed to social constructivism. Social entities treated as
+assemblages that cut across the natureculture divide.
+
+[p4] Unlike organic totalities, the parts of an assemblage do not form
+a seamless whole.  Assemblage theory avoids an ontological commitment
+to essences.  [p8] The organismic metaphor involves making a
+superficial analogy between society and the human body, and to
+postulate that just as bodily organs work together for the organism as
+a whole, so the function of social institution is to work for the in
+harmony for the benefit of society. This is associated with the
+functional school of sociology. The basic concept being /relations of
+interiority/: the component parts are constituted by the very
+relations they have to other parts in the whole. A part detached from
+such a whole ceases to be what it is, since being this particular part
+is one of its constitutive properties.
+
+[p10] The main alternative to this is assemblages: wholes
+characterized by relations of exteriority. A component part can be
+'unplugged' and 'plugged' into a different assemblage in which its
+interactions are different. [NOTE: affordances]
+
+
+[p11] The properties of a whole cannot be reduced to those of its
+parts - they don't result from an aggregation of the component's own
+properties but of the actual exercise of their capacities. These
+capacities do depend on a components properties but cannot be reduced
+to them since they involve reference to the properties of interacting
+entities. Metaphor of symbiosis between the wasp and orchid -
+contingently obligatory relations that cannot be investigated by
+thought alone. Ecosystems as assemblages, but not the species
+themselves.
+
+[p12] Assemblage is defined along two dimensions: One dimension
+describes the variable roles the components play from material to
+expressive. The other dimension defines the processes that the
+components are involved with that stabilise or destabilise the
+identity of the assemblage, increasing its degree of internal
+homogeneity or the degree of sharpness of it's boundaries -
+territorialisation and deterritorialisation.
+
+[p15] coding provides further stabilisation. Many social assemblages
+are not highly coded or highly territorialised. The more formal and
+rigid the rules, the more social encounters may be said to be coded.
+
+[p28] Taxonomic essentialism - reified generalities. But there is no
+need to be ontologically committed to the existence of hydrogen in
+general but only to the objective reality of large populations of
+hydrogen atoms.
+
+[p29] A body-plan defines a space of possibilities with topological
+structure. The notion of this structure is crucial in assemblage
+theory. The set of possible capacities of an assemblage is not
+amorphous since different assemblages display different sets of
+capacities. Phase spaces in physics and chemistry - structure is given
+by topological invariants - attractors, and dimensions that represent
+degrees of freedom - ways of changing. Social sciences - a more
+complex distribution of topological invariants
+(attractors). Distributions of these may replace Aristotle's genera.
+
+[p35] Low density networks with more numerous weak links , are for
+this reason capable of providing their component members with novel
+information about fleeting opportunities.
+
+[p40] Biological species are not general categories of which organisms
+are members, but larger scale individual entities of which organisms
+are component parts.
+
+[p45] General categories do not refer to anything in the real world
+and to believe that they do leads directly to essentialism.
+
+[p50] The main territorialising process providing the assemblage with
+a stable identity is habitual repetition. It follows that any process
+which takes the subject back to the state it had prior to the creation
+of fixed associations between ideas can destabilise personal identity.
+
+[p53] A good example of threats to ritual stability are embarrassing
+events, such as linguistic errors.
+
+[p66] Stories and categories are real group boundaries not
+phenomonologically experienced borders and play a boundary defining
+role.
+
+[p74] Any process that calls into question the extent of legitimate
+authority, such as a clash between organisations with overlapping
+jurisdictions, can destabilise their boundaries.
+
+[p81] Networks of interdependent firms can be considered highly
+territorialised.
+
+[p83] The faster the rate of innovation, the more a given network will
+benefit from the collective learning process of the small form extreme
+and the more inadequate the selfsufficient approach of an oligopoly of
+large firms will become.
+
+[p85] reified generalities are not legitimate ontological entities
+
+[p118] Every social entity is shown to emerge from the interactions
+among entities operating at a smaller scale.

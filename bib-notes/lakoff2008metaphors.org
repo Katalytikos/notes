@@ -1,0 +1,130 @@
+:PROPERTIES:
+:ID:       F2CC94C1-EEE8-4AF9-AFB6-44D343A4CB7F
+:END:
+#+TITLE: Notes on: Lakoff, G., & Johnson, M. (2008): Metaphors We Live By
+
+[ch1] We use metaphor to help us make sense of concepts, for example
+argument is war leads us to all kinds of language related to battles,
+struggle and winning/losing when we talk about arguing, but what would
+it look like if we had a metaphor of argument as dancing? This
+highlights that our metaphors hide aspects of our concepts and limits
+our thinking about those concepts.
+
+[ch2] We create systems of metaphor with a sort of hierarchy, time is
+money, time is a limited resource, time is valuable commodity, for
+example. Our conceptualisation of time is cultural.
+
+[ch3] Through our metaphors we highlight and hide much of our
+concepts. For example, when considering arguing as war we highlight
+the adversarial aspects and hide the cooperative aspects. It also
+causes us problems when context is required. These metaphors that turn
+out to occur in almost all that we talk about are always partial,
+hiding and revealing aspects of the concept.
+
+[ch4] We use orientation, such as up and down, as a metaphor for many
+things such as mood, health etc. Again this is cultural. Some
+cultures, for example, see the future as behind rather than in front,
+unlike western culture. Because we see good and bad as up and down,
+using this metaphor with other concepts creates association. For
+example, rational as up and emotional as down. Control is up provides
+us a basis for man is up and rational is up. The systematicity imposes
+a coherence. A system would be incoherent if "I'm feeling up" meant I
+am happy, but "My spirit's rose" meant I became sadder. Generally our
+coherent system is based on good is up and our system of metaphors
+becomes incoherent of we say, for example "breadth of ecstasy" rather
+than "heights of ecstasy".
+
+[ch5] Coherence requires resolution of conflicting and where these
+arise there is a cultural priority. For example, More is up over Good
+is up.
+
+[ch6] Ontological metaphors are often used to view a non-physical
+thing as an entity or substance [note - ontology of identity]. Some of
+these ontological metaphors seem so natural it often doesn't occur to
+us that they are metaphors. For example the mind as a machine
+(operating, wheels turning, rusty) or mind as fragile (shattered,
+crushed) This can lead us to think of statements such as "he cracked
+under pressure" as being either false or true, but the mind as a
+brittle object is cultural model of the mind. Activities and states
+are often viewed as containers. For example being in love.
+
+[ch7] Many ontological metaphors associate the concept as a person and
+this can become specific as in the example of "inflation as a person"
+and "inflation as an adversary". This allows us to create meaning
+around concepts that echo our own motivations, actions, goals and
+characteristics.
+
+[ch8] Metonymy is a particular type of metaphor where we use one
+entity to refer to another that is related, for example "He owns a
+Picasso". A special case of this where we use a part to refer to a
+whole is known as synecdoche. An example would be "I've got a new set
+of wheels". An example where culture influences our metaphors is
+substitution of the face for the person. "She's just a pretty
+face". This cultural influence is evident when we show someone a
+picture of someone else - the face is the important bit. Metonymic
+concepts can also be systematic like other uses of metaphor. "He owns
+a Picasso" has more meaning than "He owns a painting by Picasso" as
+substituting the producer for the produced imbues the concept
+discussed with elements of the producers philosophy, approach, skill,
+historical context and much more than the more specific "painting by
+Picasso". This demonstrates how metaphor not only structures our
+language but also our concepts, thoughts and attitudes.  Symbolic
+metonyms are critical links between everyday experience and our
+cultural (and religious) metaphorical systems. It demonstrates what is
+important and relevant to us in the concepts we use.
+
+[ch9] A challenge to coherence of metaphors can be seen when we
+consider time. "In the weeks ahead of us" and "In the following weeks"
+look at first appearance to be contradictory. In fact they demonstrate
+a richness in our metaphors. When we consider ourselves we can see us
+as facing forwards towards the future [itself cultural] but the points
+in future time, in relation to each now, or a particular point in time
+can be a sequence of occurrences that come after each other and we
+experience them in some kind of order where the future 'follows' the
+present. We also have time as a moving object; as we stand still, time
+"passes us by". This demonstrates a multi-faceted view of time as
+concept, coherent in it's metaphor. [Bergsonian time?]
+
+[ch10] Metaphors partially structure our everyday concepts and this
+structure is reflected in our literal language.
+
+[ch11] Our metaphors are partial in the normal use. There are used
+parts and unused parts. For example, we talk about foundations and
+structure to theories - theories as buildings - but we don't talk
+about rooms, walls, doors, furniture etc. in the normal use of
+metaphors. However, we do often extend this to explore a richness of
+meaning within our concepts. We often extend the used parts "bricks
+and mortar of the theory". We also extend into unused parts "the
+theory has thousands of rooms and long winding corridors". We can also
+use novel metaphor to introduce new ways of thinking. For example
+"Classical theories are patriarchs who father many children". [Apply
+the text in italics to the metaphor of homeostasis? ]
+
+[ch11] When we use metaphors in a structured way we find that we find
+that we use parts of the metaphor, but not all of them. Parts of the
+metaphor remain hidden. We can use novel metaphors to explore new
+meaning.
+
+[ch12] Our conceptual system is grounded in experience as are our
+metaphors.
+
+[ch13] Our structural metaphors provide clear delineated to concepts
+to structure another concept. These are often cultural.
+
+[ch14] Causation is a basic human concept.
+
+[ch16] An argument is a journey, a journey defines a path, therefore
+an argument defines a path.
+• Journey - content, progress, directness, obviousness
+• Container - content, progress, basicness, strength, clarity
+• Building - content, progress, basicness, strength, structure
+
+[ch17] Cross metaphor coherence:
+
+[ch18] Spatial metaphor applies to the form of a sentence:
+I taught Greek to Harry
+I taught Harry Greek <- stronger
+Intonation - Unknown is up, Known is down. "Who did John see yesterday?"
+
+[ch29] Experientialism - Meaning is only meaning /to/ a person. Truth
+depends on understanding and understanding emerges from fu

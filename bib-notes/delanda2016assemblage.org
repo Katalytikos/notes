@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       29666EC6-27E8-47BF-9397-4EE554890680
+:END:
+#+TITLE: Notes on: DeLanda, M. (2016): Assemblage Theory
+
+[p2] (too spatial) A better choice would be intrinsic and extrinsic,
+but the intent is clear: if a relation constitutes the very identity
+of what it relates it cannot respect the heterogeneity of the
+components, but rather it tends to fuse them together into a
+homogenous whole.
+
+[p21] Downward causality - Wholes emerge bottom up, depending causally
+on their components, but have a top down influence. This d-c is needed
+to account for the fact that most assemblages are composed of parts
+that come into existence after the whole has emerged.
+
+[p27] Ritual as coded habit?
+
+[p29] Any event that takes attention away from the subject of
+conversation to focus it elsewhere can destabilise this assemblage.
+
+[p120] Attractors and their basins define zones of stability, since
+they pin down trajectories to a small set of states and do not let
+them escape.

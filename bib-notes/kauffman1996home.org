@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       8803037C-1339-4E11-B0AA-C3CAEB305D00
+:END:
+#+TITLE: Notes on: Kauffman, S. (1996): At home in the universe: the search for the laws of self-organization and complexity
+
+[p22] Among the most beautiful [algorithm] are those that, in most
+cases by far, there exists no shorter means to predict what an
+algorithm will do than to simply execute it, observing the succession
+of actions and states as they unfold. The algorithm itself is its own
+shortest description. It is, in the jargon of the field,
+incompressible.
+
+[p30] We are all at home in the universe, poised to sanctify by our
+best, brief, only stay.
+
+[p49] At its heart, a living organism is a system of chemical that has
+the capacity to catalyse its own reproduction.
+
+[p52] We should be thankful that our cells are not at chemical
+equilibrium; for a living system, equilibrium corresponds to
+death. Living systems are, instead, open thermodynamic systems
+persistently displaced from chemical equilibrium.
+
+[p211] It seems that given a "reservoir" of species that can migrate
+into a plot or patch, the community that forms is deeply dependent on
+the sequence in which species are introduced. Ecologist Stuart Pimm
+has coined the term "Humpty Dumpty effect": you cannot always put an
+ecosystem back together with only the final species in the community.
+
+[p214] While a species navigates a fitness landscape [and]
+... communities climb higher and higher toward some fitness peak, the
+ascension becomes harder and harder. As the climb proceeds, there are
+fewer directions uphill and hence it is harder to add new
+species. Saturation is attained.
+
+[p217] I suspect that biological coevolution and technological
+coevolution, the increasing diversity of the biosphere and of our
+"technosphere" may be governed by the same or similar fundamental
+laws.
+
+[p219] Prisoner's dilemma - single game the rational strategy is
+defect-defect, but in a repeated game, entirely different strategies
+emerge - cooperation. tit for tat becomes a strategy.
+
+[p236] Power law distribution in complex evolutionary change? Poised
+systems need no massive mover to move massively.
+
+[p264] Patch possibilities - It is fascinating that as the conflicting
+constraints become worse, patches become ever more helpful. Moreover,
+it may suggest new tools in the management of complex organisations
+and in the evolution of complex institutions worldwide.
+
+[p267] (Patches and RBC) Receiver based communication is roughly this:
+all the agents in a system that is trying to coordinate behaviour let
+other agents know what is happening to them. The receivers of this
+information use it to decide what they are going to do.
+
+[p280] The current [economic] efforts ignore the fact the
+technological evolution is actually coevolution.

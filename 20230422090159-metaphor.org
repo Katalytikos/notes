@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       DE8F11E5-68C4-4D65-9790-5BC34D850497
+:END:
+#+title: Metaphor
+
+[[cite:&lakoff2008metaphors]]

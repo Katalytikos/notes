@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       BFA30F3D-7CB0-432E-9A7B-51B2DB5C9A56
+:END:
+#+title: Differential Ontology
+
+Differential ontology understands the identity of any given thing
+as\constituted on the basis of the ever-changing nexus of relations in
+which it is found. Therefore identity is a secondary determination,
+while difference, or the constitutive relations that make up
+identities, is primary.
+
+Time - puncti-linear, a whole series of 'now' points. Husserl - time
+is not experienced as a series of discrete, independent moments, but
+is always thick with past and future.  (phenomenology)
+
+

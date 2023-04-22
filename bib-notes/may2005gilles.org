@@ -1,0 +1,217 @@
+:PROPERTIES:
+:ID:       52AED6B7-78AA-48AF-935C-6B037D1A68BA
+:END:
+#+TITLE: Notes on: May, T. (2005): Gilles deleuze: an introduction
+
+[p29] *Transcendence* (of Forms, God, human subject, material/mental)
+requires the existence of two ontological substances. It requires that
+one substance is superior to another. Superior in power and value. The
+transcending power brings the transcended world into full flower,
+liberating it from the prison of its incapacities. Transcendence does
+not corrupt; it completes.
+
+[p38] *Expression* (attributes/modes/substance) Origami is the folding
+of paper into different recognisable figures... there is no cutting of
+paper. No outside elements are introduced into it. Everything happens
+as an expression of that particular bit of paper. It is only the paper
+that is folded and unfolded into new arrangements, these arrangements
+being the *modes* of the paper which is the origami's substance. The
+extension of the paper would be its *attribute*. If we can imagine the
+paper's being able to fold and unfold itself, we come close to the
+concept of expression. Further, we must see each figure as part of the
+process, not a finished product, if we are to grasp the concept of
+*substance* (Folding, unfolding, refolding) /ref - affordances?/
+
+[p55] (Bergson) Duration is a virtual multiplicity, a realm of
+difference where differences are not between previously constituted
+identities but where difference "differs with itself" ... It is from
+the realm of differences that the present arises, as it's virtuality
+actualizes into specific spatial features. Thus, "the Bergsonian
+revolutions is clear: We do not move from the present to the past,
+from perception to recollection, but from the past to the present,
+from recollection to perception." (!! /differential ontology notes?/
+[cont.] The immanence of duration to the present has an important
+consequence: the present always has a greater potential for
+transformation than it appears to have.
+
+[p64] [Nietzsche] The dice are thrown. This is the eternal return. The
+dice are always thrown, at every instant. The future is always with
+us, here and now, just as the past is (actualized in the present). A
+pair of dice, loaded with the multiplicity that is duration is
+thrown. The dice fall back, they show a combination. There you have
+it. Those are the numbers. That is your throw. You may get another,
+but it will not erase the combination that faces you, That combination
+will always have happened, and will always be part of your score. The
+past is always part of every present.
+
+[p68] (more?) To affirm the eternal return is to recognise a world of
+virtual difference that lies beyond the particularities of our
+present, to set free the active forces of creativity, to refuse to
+separate those forces from what they can do. It is to recognize that
+the future does not offer us guarantees of what will be there, and
+moreover that to seek guarantees is to restrict our capacities, to
+imprison our bodies, to stifle our creative possibilities, to betray
+what may be the best in us for the fear that it may instead be the
+worst.
+
+[p72] *QUOTE* If we abandon this [our current] way of thinking of our
+world, then alternative ways of living may appear to us. If things
+don't have strict borders of identity and if the relations among them
+are not reducible to natural laws, then we can no longer be sure of
+what a body is capable. Perhaps there is more going on in our world
+that is presented to us. We don't know. The only way to find out is to
+experiment.
+
+[p83] "We are led to believe that problems are given ready-made, and
+that they disappear in the responses or the solution....We are led to
+believe that the activity of thinking...begins only with the search
+for solutions."  [cont.] Instead of seeing these as problems that seek
+a particular solution, we might see [cont.] Instead of seeing these as
+problems that seek a particular solution, we might see them as opening
+up fields of discussion, in which there are many possible solutions,
+each of which captures something, but not everything, put before us by
+the problem.
+
+[p85] For Deleuze, this is a case of the solution defining the
+problem. To see why, recall the relation of the virtual to the
+actual. The virtual is not the same as the actual; it has a different
+character. Solutions are actual; problems are virtual. The dodo bird
+is an actual solution to the problem of a particular
+environment. Solutions present themselves as stable identities whereas
+problems present themselves as "open fields" or "gaps" or "ontological
+folds." Problems are inexhaustible, while solutions are a particular
+form of exhaustion. For the *dogmatic image of thought*, being is
+defined in terms of actuality, rather than virtuality. It is a matter
+of stable identities rather than difference. To think ontologically in
+terms of stable identities is to read solutions back into problems, to
+approach problems in terms of solutions. For Deleuze, being is not a
+matter of stable identities that representational thought gives
+us. Identities come later, as particular solutions to the problems
+that being places before us, the problem that being is. To confuse
+those *identities with being* is to confuse the actual with the
+virtual. It is to confuse solutions and problems. The dogmatic image
+of thought gives primacy to identities, to the actual and solutions.
+
+[p86] In Deleuze's hands, ontology is not a matter of telling us what
+there is but of taking us on strange adventures, bringing us far
+afield of ourselves.
+
+[p90] Bergson's concept of duration offers the framework for
+understanding the process of the unfolding of difference as the
+actualization of the virtual. Spinoza's concept of the univocity of
+being reveals this process as an immanent unfolding, an expression,
+rather than a transcendent creation or emanation.
+
+[p98] (/denotation, manifestation, signification/) Denotation is the
+relation of the proposition to external affairs...Manifestation
+concerns the relation of the proposition to the person who speaks and
+expresses himself....Where denotation points "forward" toward the
+world the proposition speaks of, manifestation points "backwards"
+toward the proposition's origin, toward the one who utters the
+proposition. With [these] we have three intersecting elements in
+language: a proposition, a speaker, and a state of affairs. Together
+they form a representational world of language. But id we stop [here]
+we will miss much of what goes on both within language itself and in
+the relation of language to the speaker and world. We need a third
+concept: signification. Signification has to do with the implications
+of propositions, with what follows form a proposition or a group of
+propositions. (syllogism)
+
+[p102] Isn't Deleuze saying something simple here? Isn't he saying
+that when we use the word "green" we make the world appear a certain
+way for the people who hear us?  When I say "the leaf is green" aren't
+I just ascribing a quality to something in the world, manifesting
+myself in words that denote the world? ...It occurs in the
+representational order of things. But he insists that something else
+occurs as well, something that eludes that representational order but
+is just as real as that order....To green, to be a stickup, is to
+orient bodies in certain ways, to create new lines of engagement among
+things, to cut a trajectory through the world, a trajectory in which
+both oneself and the world are affected. It is not a matter of
+representation but of an event that occurs within and through
+language, at its point of intersection with the world. (/see Wieck/)
+
+[p106] Language is a system of differences. It exists not as a system
+of positive elements, each which has its identity. Rather it is
+defined by differences that, like the difference of being, can be
+palpated but not brought under representational categories. To speak
+then, is to bring two series of differences into contact: being and
+language.  [cont.] For Deleuze, this contact between two series of
+differences implies the existence of certain kinds of paradoxical
+elements that belong to both and neither series at the same
+time... This paradoxical element that both is and is not of language
+and is and is not of the world, is nonsense.  [cont.] The name of the
+song is called 'Haddocks' Eyes'." "Oh, that's the name of the song, is
+it?" Alice said, trying to feel interested. "No, you don't
+understand," the Knight said, looking a little vexed. "That's what the
+name is called. The name really is 'The Aged Man'." "Then I ought to
+have said 'That's what the song is called'?" Alice corrected
+herself. "No, you oughtn't: that's quite another thing! The song is
+called 'Ways And Means': but that's only what it's called, you know!"
+"Well, what is the song, then?" said Alice, who was by this time
+completely bewildered. "I was coming to that," the Knight said. "The
+song really is 'A-sitting On A Gate': and the tune's my own
+invention."  [cont.] This proliferation is not, for Deleuze, merely a
+game that can be played at the margins of language. It points to
+something essential about language itself. It is nonsense that allows
+language and the world to come together.... Without this paradox,
+there would only be the non-communication of these two series, a
+silence between them.
+
+[p111] Swimmers do not learn facts about the water and about their
+bodies and then apply them to the case in hand. The water and their
+bodies are swarms of differences. In order to navigate their bodies
+through the water, they will need to acquire a skill: to "conjugate"
+their bodies with the water in such a way as to stay on its surface.
+
+[p125] Machines do not operate out of lack. They do not seek to fulfil
+needs. Instead they produce connections. Moreover, the connections
+they produce are not pre-given; machines are not mechanisms. Machines
+are productive in unpredictable and often novel ways. The concept of a
+machine as Deleuze and Guattari employ it is like the concept of
+difference...They are not reducible to any one set of connections, any
+particular identity. Even when they are connected in a particular way
+they are capable of other connections and other functions.  [cont.]
+There is a virtuality to machines that inheres in any set of actual
+connections and that allows them to connect in other and often novel
+ways.
+
+[p133] "How might we go about living?"... Seen from Deleuze and
+Guattari's viewpoint, the question might become something like this:
+"What connections might we form?" Or, "What actualizations can we
+experiment with."... we need to bear in mind that the "we" of the
+questions is not a given we. It can be a group. It can be an
+individual. It can be an ecosystem or a pre-individual part or a
+cross-section within an environment or a geographical slice. What
+makes it a "we" is not the stability of identity. It is the
+participation in the formation of connections.
+
+[p156] There is another better way to describe what Coltrane was
+doing. It starts with the music. Music is a virtual field of
+differences that can be actualized in many different ways... He did
+not so much compose or arrange or express; he searched. He threw the
+dice... He investigate to see what else the music might contain that
+it had not shown before. He played not to display the actual but to
+touch the virtual.
+
+[p165] Cities are not organic and they are not mechanistic. They are
+machinic. It is not that no order emerges. An order, an actualisation,
+does emerge. But its emergence has nothing to do with self-subsistent
+elements arranged according to a pre-given pattern or from connections
+that are melded once and for all. It emerges from specific context of
+diversity in ways that both create and are created by the elements of
+that diversity.
+
+[p169] We are taught what is to be thought of as erotic, what we
+should be aroused by...  But it often does not happen like that. It is
+often that something else becomes erotic. The eye is caught by the
+glint of light from a knee. The roughness of a patch of skin becomes
+provocative to a finger... A lisp or stutter arouses. One part of a
+body calls out to another, provocative to a finger... A lisp or
+stutter arouses. One part of a body calls out to another, not with
+information but with invitation. Or better, a relationship of
+eroticism occurs between them that creates both subjects and
+objects. There is an event, an event of erotics that arises across and
+between the surfaces of bodies. It may be a surprise to us to discover
+these sensations, these arousals. But that is because we still do not
+know of what a body is capable.

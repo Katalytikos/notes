@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0BB65B26-4517-4649-B8EC-FF9D7023A161
+:END:
+#+title: Sensemaking
+
+[[cite:&weick1995sensemaking]]
