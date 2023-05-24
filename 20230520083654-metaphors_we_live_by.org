@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       F2CC94C1-EEE8-4AF9-AFB6-44D343A4CB7F
+:ID:       1FD75C9F-2140-454F-B1F7-BE8491C6ECD6
+:ROAM_REFS: cite:lakoff2008metaphors
 :END:
-#+TITLE: Notes on: Lakoff, G., & Johnson, M. (2008): Metaphors We Live By
+#+title: Metaphors We Live By
+
 
 [ch1] We use metaphor to help us make sense of concepts, for example
 argument is war leads us to all kinds of language related to battles,

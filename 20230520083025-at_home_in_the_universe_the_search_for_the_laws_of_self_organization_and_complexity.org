@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       8803037C-1339-4E11-B0AA-C3CAEB305D00
+:ID:       F540B2B9-C1B5-4453-BF82-DE64CFDB34A1
+:ROAM_REFS: cite:kauffman1996home
 :END:
-#+TITLE: Notes on: Kauffman, S. (1996): At home in the universe: the search for the laws of self-organization and complexity
+#+title: At home in the universe: the search for the laws of self-organization and complexity
+
 
 [p22] Among the most beautiful [algorithm] are those that, in most
 cases by far, there exists no shorter means to predict what an

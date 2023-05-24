@@ -1,0 +1,237 @@
+:PROPERTIES:
+:ID:       52911E7A-3FBE-44AE-BF63-A986BB45FE70
+:ROAM_REFS: cite:schwartz2016art
+:END:
+#+title: The art of business value
+
+
+
+[pXI] What if our grasp of what business value is, is not quite right
+to start with? ... Business value is often incorrectly conflated with
+either customer value or user value... Are we correctly defining what
+/types/ of value we strive to create?
+
+[pXVI] The /meaning/ of business value - not just the features that
+would realise it - was different from organisation to organisation
+... In agile practice, we only care bout the delivery of business
+value. Which means we care about what?
+
+[pXIX] The boundaries of our systems are blurring - a giant hairball
+of stuff. We should be thinking in terms of the value of our hairball
+as well.
+
+[pXX] Business value is often implicit, or at least rarely explicit
+enough for someone to act upon.
+
+* The Problem
+
+[p2] Most books on agility sidestep the question of what exactly
+business value is.
+
+[p4] There can be many reasons why business objectives differ from
+user objectives.
+
+[p5] The conflation of business value, customer value and user value
+is outdated and well out of step with current agile practice... We can
+no longer think of business value as something known and understood in
+its entirety before the team begins its work. More importantly we
+cannot think of business value as something determined outside the
+team by something called 'the business' and then simply presented to
+the team... To know that we have delivered business value, we must
+both understand what business value is and be attentive to outcomes.
+
+[p6] Business value is, intuitively, whatever the business
+values... It is "mentioned everywhere, but not clearly defined, or
+pushed onto others to resolve" - the elephant in the room. Kruchten
+
+** Problems with ROI
+
+[p10] Making decisions on ROI formula does not necessarily maximise
+business value... There is a time value of money. Profit is based on
+financial accounting and is not intended for managerial decision
+making.
+
+[p11] Near term profit is poorly correlated with the value delivered
+to shareholders of a company. Tom Copeland - changes in accounting
+techniques that have reduced profit often result in higher stock
+prices... "First determine what is valuable and then write user
+stories to deliver that value" (?)
+
+* The Meaning
+
+[p27] Financial concerns for a non profit should be hitting targets
+for liquidity: having just enough resources to carry out the mission,
+but not too much... The criteria for its success - that is, its
+definition of business value - is about accomplishing the mission for
+which it is chartered.
+
+[p28] Dual Bottom Line Matrix
+
+[p28] Government agencies - How can we make decisions in such a
+complex, political and emotionally charged realm?
+
+[p29] Clearly, shareholder value is not what is meant by business
+value in the context of a government department; even mission value
+might be rather an oversimplification.
+
+[p30] Mark Moore - It is not enough that public managers simply
+maintain the continuity of their organisations, or even that the
+organisations become efficient in their current tasks. It is also
+important that the enterprise be adaptable to new purposes and that it
+be innovative and experimental... Perhaps agility is already a value
+in the public sector.
+
+[p31] Three generic competitive strategies: cost leadership,
+differentiation and focus.
+
+[p33] If I'm right about this, then business value is not a given, but
+rather something specific to the organisation that must be
+discovered. This idea might sound familiar: it is in fact the very
+idea of agility... It is waiting to be discovered in the institutional
+memory: culture and rules. The most powerful instantiation being
+bureaucracy.
+
+* The Culture
+
+[p39] Scrum model of team (as it is often implemented] is an
+intuitively appealing model to those of us in the software business,
+but I believe that it is fundamentally flawed.
+
+[p39] High performing teams manage across their boundaries, reaching
+out to find the information they need, understand the context in which
+they work, manage the politics and power struggles that surround any
+team initiative, get support for their ideas, and coordinate with the
+myriad other groups that are key to a team's success - Ancona &
+Bresman.
+
+[p40] Once we have abandoned the idea that business value is a simple
+formula, we have to ask ourselves whether the model of a product owner
+doing all?
+
+[p41] We are asking too much of the product owner.
+
+[p42] The consequence of an outdated belief that IT organisations are
+the passive recipient of business requirements from the business and
+judged not on outcomes but on their success in delivering what they
+are told is needed... give team ownership over business value
+discovery and interpretation, not just over discovery on requirements.
+
+[p43] This is the model that DevOps points towards.
+
+[p43] If the meaning of business value is something that must be
+unearthed by the team, then the organisation as it exists now may
+contain vital clues.
+
+[p44] We are determined to deliver on a definition of business value
+despite the organisation (culture) around us. This arrogance is not
+warranted.
+
+[p46] The organisations culture has evolved for a reason: it has been
+strongly influenced by what the organisation has found to deliver
+business value in the past.
+
+[p47] Cultural assumptions dominate even what kind of information is
+gathered and how it is interpreted... One thing we cannot do is try
+and rip out the existing culture and replace it with a "more agile"
+one. Culture is not an impediment to agile adoption; it is a valuable
+clue to defining the success of agile adoption.
+
+[p48] Encapsulation of the software delivery team (Scrum) is a poor
+fit with DevOps and contemporary agile culture.
+
+* The Rules
+
+[p52] Just as culture contains valuable clues, so does corporate rules
+and power structures.
+
+[p53] Developers are bureaucrats by nature.
+
+[p54] Hating bureaucracy is a bit like hating the law of entropy.
+
+[p58] Govt is based on system of checks an balances - public trust/distrust.
+
+[p59] It is easy to mistake compliance for waste.
+
+[p61] The compliance requirements are not an obstacle, but rather an
+expression of a deeper business need that the team must still address.
+
+* The CIO
+
+[p75] IT must ensure that the value is harvested through post
+implementation reviews and audits.
+
+[p76] Governance is a way for IT to learn about IT value in the
+enterprise.
+
+[p77] Weill - "Top governance performers had more differentiated
+business strategies based on value disciplines such as customer
+intimacy or product innovation. Governance performance was lower in
+enterprises pursuing technical excellence."
+
+[p77] It remains difficult to see how the autonomous, encapsulated
+Scrum team can participate in this store of knowledge, expertise, and
+guidance if it only listens to the product owner on questions of
+business value.
+
+* The Clue
+
+[p86] If this is a team sport, the team should own value
+delivery. What would it take for that to be the case?
+
+[p86] Leadership defines the business value context for the
+enterprise's activities, and the team needs tbo absorb that context,
+not ask the product owner to interpret it for them. The team must
+build the relationships that allow it to sense context; it must
+provoke and observe.
+
+[p87] In a CAS, leadership can influence, but not control,
+outcomes... Managers do not have an Archimedean vantage point above
+the activity of the organisation.
+
+[p88] The role of leadership in a CAS is to influence the evolutionary
+process so that the organisation delivers its goals... [p89] and
+delivers business value.
+
+[p90] How does leadership know what indicators of business value are
+the right ones to follow in order to achieve the desired business
+outcomes? ... They don't know. A hypothesis about what combination of
+indicators will lead to outcome.
+
+[p95] Cost of delay divided by duration (CD3)
+ 
+[p96] Scenario Planning - not about predicting the future, rather they are about perceiving the future in the present. Find leading indicators of each scenario. Increases agility as it keeps options open. Know which scenario is closest to the course of history as it unfolds.
+
+[p97] Options Approach - Decide at the last possible moment. There is
+a value to delay as well as a cost.
+
+* The Delivery
+
+** Build the pipeline
+
+[p105] The first need of business value centric delivery is to set up a production process that allows for rapid, informative, and reliable feedback cycles... Good technical practices are not optional. DevOps bureaucracy.
+
+** Extend the pipeline
+
+[p108] Feedback on how the organisation is harvesting value from the new feature... A new feedback loop on definition of value. this definition is applied to incentives, visions & criteria for success, strategies etc. in CAS.
+
+** Search for gems in the waste
+
+** Explore the fourth dimension
+
+[p112] Scenario Planning
+
+** Polish the hairball
+
+[p113] Find and tune latent possibilities that exist in current assets.
+
+** Govern wisely
+
+We have somewhat of an impedance mismatch, where we govern in large
+units and execute in small units.
+
+** Change Partners
+
+Let the teams self organise product ownership.
+
+** Feed the CIO
+

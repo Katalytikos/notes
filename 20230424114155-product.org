@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       28797AD0-CB49-49C5-9047-EEF1DED03647
+:END:
+#+title: Product Management
+
+
+[[cite:&schwartz2016art]]

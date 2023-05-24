@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       958A3846-5A6B-48AE-8E30-8E215363CB6A
+:ROAM_REFS: cite:juarrero2002dynamics
+:END:
+#+title: Dynamics in action: intentional behavior as a complex system
+
+[p5] Complex adaptive systems are typically characterized by positive feedback processes in  which the product of the process is necessary for the process itself. Contrary to Aristotle, this circular type of causality is a form of self cause.
+
+[p7] Constraints work, then, by modifying either a system's phase space or the probability distribution of events and movements within that space.
+
+[p8] the similarity in the dynamics of self-organisation and hermeneutics makes the latter uniquely suited as the logic of explanation for stable states of the former.
+
+[p10] Causality as constraint.
+
+[p15] Philosophers lack a satisfactory theory of how causes cause and how explanations explain.
+
+[p17] How do desire and deliberation, choice and intention "cause" voluntary behaviour?
+
+

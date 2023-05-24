@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       089677E5-0635-4437-B71F-BECE3A52C551
+:ID:       247F709A-7194-4ADC-83A5-89F2A9ACA8EC
+:ROAM_REFS: cite:axelrod2008harnessing
 :END:
-#+TITLE: Notes on: Axelrod, R. (2008): Harnessing Complexity
+#+title: Harnessing Complexity
+
 
 [p16] A system should be called complex when it is hard to predict not
 because it is random but because the regularities it does have cannot

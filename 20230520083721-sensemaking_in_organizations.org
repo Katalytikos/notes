@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       3E4A434F-00C9-4BDC-92B7-1915E3F6AC1F
+:ID:       80B9A667-6930-4D26-8D90-1BB559DC71D3
+:ROAM_REFS: cite:weick1995sensemaking
 :END:
-#+TITLE: Notes on: Weick, K. (1995): Sensemaking in organizations
+#+title: Sensemaking in organizations
+
 
 [p1] Sensemaking is tested to the extreme when people encounter an
 event whose occurrence is so implausible that they hesitate to report

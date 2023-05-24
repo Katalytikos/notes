@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       29666EC6-27E8-47BF-9397-4EE554890680
+:ID:       F44DB056-057A-461E-B759-EF67B24CE1C2
+:ROAM_REFS: cite:delanda2016assemblage
 :END:
-#+TITLE: Notes on: DeLanda, M. (2016): Assemblage Theory
+#+title: Assemblage Theory
+
 
 [p2] (too spatial) A better choice would be intrinsic and extrinsic,
 but the intent is clear: if a relation constitutes the very identity

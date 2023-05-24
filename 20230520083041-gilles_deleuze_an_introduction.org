@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       52AED6B7-78AA-48AF-935C-6B037D1A68BA
+:ID:       C7C6EFE4-7AFA-472E-A1C9-35F467E41A56
+:ROAM_REFS: cite:may2005gilles
 :END:
-#+TITLE: Notes on: May, T. (2005): Gilles deleuze: an introduction
+#+title: Gilles deleuze: an introduction
+
 
 [p29] *Transcendence* (of Forms, God, human subject, material/mental)
 requires the existence of two ontological substances. It requires that

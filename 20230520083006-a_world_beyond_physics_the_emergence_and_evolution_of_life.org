@@ -1,7 +1,9 @@
 :PROPERTIES:
-:ID:       6760F3DB-2515-4926-87F3-6DCBD0911B5A
+:ID:       7F3D2677-FCF8-403A-98A3-67D9997884F1
+:ROAM_REFS: cite:kauffman2019world
 :END:
-#+TITLE: Notes on: Kauffman, S. (2019): A world beyond physics: the emergence and evolution of life
+#+title: A world beyond physics: the emergence and evolution of life
+
 
 [Xnl] Constraint closure - A set of both constraints on the release of
 energy in nonequilibrium processes and those processes, such that the

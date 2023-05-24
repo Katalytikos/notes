@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       C7DD949A-B9D3-4541-987D-D6BC4ED04A17
+:ROAM_REFS: cite:hoverstadt2022grammar
+:END:
+#+title: The grammar of systems: from order to chaos \& back
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8CEDFC0F-F6C9-482F-97AE-BEC456005C8F
+:ROAM_REFS: cite:bateson2016small
+:END:
+#+title: Small arcs of larger circles
+
